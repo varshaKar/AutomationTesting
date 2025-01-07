@@ -15,7 +15,7 @@ public class ObjectCreation {
 
         //With the help of s2, we can access all the variables and methods of the class Students
         s2.name = "ABC"; //All the variable values are stored in the heap memory
-        s2.age = 20; //All the variable values are stored in the heap memory
+        s2.age = 40; //All the variable values are stored in the heap memory
         s2.courseName = "Selenium"; //All the variable values are stored in the heap memory
     }
 

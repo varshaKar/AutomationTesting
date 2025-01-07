@@ -25,7 +25,7 @@ class Numbers {
         int hdigit;
     }
 
-    public class ObjectCreations {
+    public static class ObjectCreations {
 
         public static void main(String[] args) {
 

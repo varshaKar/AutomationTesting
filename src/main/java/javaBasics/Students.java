@@ -2,6 +2,8 @@ package javaBasics;
 
 public class Students {
     public String name;
+    public String courseName;
+    public int age;
     //In the same JAVA file, we can have multiple classes, but only one public class should be there
 
 //Name of the file should be same as the name of the public class
